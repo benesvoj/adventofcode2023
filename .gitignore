@@ -1,0 +1,7 @@
+### Example user template template
+# This file should contain all the parts of the template that are specific
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
